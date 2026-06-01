@@ -1,0 +1,6 @@
+{
+  "name": "Limecraft",
+  "description": "A 3D voxel sandbox game with infinite procedural terrain generation, multiple seed presets including a gorgeous Suburban Neighborhood with enterable brick cottage houses, and an interactive Start Screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
